@@ -1,0 +1,16 @@
+=== TENSORTS CALCULATOR ===
+
+This project aim to help a mechanical engineer to determine the material and
+angle of 2 tensors holding a heavy weight.
+
+Tipical examples of this can be found here : 
+
+http://www.taringa.net/post/hazlo-tu-mismo/14547502/Problemas-De-Estatica.html
+
+
+# BUILD 
+
+make 
+python (or kivy) application.py
+
+
